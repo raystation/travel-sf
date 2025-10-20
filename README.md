@@ -1,5 +1,6 @@
 # San Francisco Eats by Neighborhood
 
+
 ## North Beach
 - Cioppino – Sotto Mare
 - Cioppino – Anchor Oyster Bar
@@ -108,8 +109,7 @@
 - Ocean Beach
 - Baker Beach
 
-# Neighborhoods
-## [[North Beach]]
+## [North Beach](north-beach.md)
 - Tony’s Napoletana $ $
 - Sushi on North Beach - sushi $
 - Il Casaro
