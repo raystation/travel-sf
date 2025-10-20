@@ -8,4 +8,4 @@
 - Yarsa - Nepalese
 
 
-[back to directory](readme.md)
+[back to directory](README.md)
