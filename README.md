@@ -1,6 +1,5 @@
-# San Francisco Eats by Neighborhood
+# San Francisco Eats
 
+**Neighborhood**
 - [Dogpatch](dogpatch.md)
 - [North Beach](north-beach.md)
-
-

@@ -2,7 +2,7 @@
 List of places to eat and hang
 
 **Lunch**
-- [Autumn’s Cafe and Catering](https://www.google.com/maps?q=Autumn%E2%80%99s%20Cafe%20and%20Catering%0A). Reasonably priced sandwiches and 
+- [Autumn’s Cafe and Catering](https://www.google.com/maps?q=Autumn%E2%80%99s%20Cafe%20and%20Catering%0A). Reasonably priced sandwiches. 
 - Soulva
 
 **Hang**
