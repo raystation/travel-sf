@@ -1,7 +1,7 @@
 # Dogpatch
 List of places to eat and hang
 - [Food](#food)
-- [Food](#food)
+- [Hang](#hang)
 
 ## Food
 - [Autumn’s Cafe and Catering](https://maps.app.goo.gl/GGS1uqwd1Y79LqN48) - Reasonably priced sandwiches. 
