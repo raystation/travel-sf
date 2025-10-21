@@ -1,5 +1,7 @@
 # North Beach
-- 
+List of places to eat and hang
+- [Food](#food)
+- [Hang](#hang)
 
 ## Food
 - Tony’s Pizza Napoletana
