@@ -1,5 +1,6 @@
 # San Francisco Eats
 
-**Neighborhood**
+## Neighborhood
 - [Dogpatch](dogpatch.md)
 - [North Beach](north-beach.md)
+- [Chinatown](chinatown.md)
