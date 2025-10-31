@@ -4,8 +4,8 @@ List of places to eat and hang
 - [Hang](#hang)
 
 ## Food
-- [Autumn’s Cafe and Catering](https://maps.app.goo.gl/GGS1uqwd1Y79LqN48) - Reasonably priced sandwiches. 
-- [Senor Sisig](https://maps.app.goo.gl/M7x5YpP2M9Tt3BCMA)
+- [Autumn’s Cafe and Catering](https://maps.app.goo.gl/GGS1uqwd1Y79LqN48) - Tasty and reasonably priced sandwiches and have loyalty cards.
+- [Senor Sisig](https://maps.app.goo.gl/M7x5YpP2M9Tt3BCMA) - 
 - [Longbridge Pizza](https://www.google.com/maps?q=longbridge)
 - [Soulva](https://maps.app.goo.gl/Bns7Uo7vfCYECrvQ6)
 - [Döuble Shöt](https://maps.app.goo.gl/gY6pgadPGeVX3DQj6) - coffee and sandwiches
