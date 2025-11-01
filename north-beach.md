@@ -31,4 +31,4 @@ List of places to eat and hang
 - North Star
 - Lillie Coit's
 
-[< back to directory](README.md)
+< [back to directory](README.md)
