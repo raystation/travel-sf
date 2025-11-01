@@ -8,9 +8,9 @@ List of places to eat and hang
 - [Capo's](https://maps.app.goo.gl/kg7ygK6oeqGeLVt69) - Tony's family restaurant which features a lot of Detroit-style pizza.
 - [Il Casaro](https://maps.app.goo.gl/WE927zgupcwcW3i76) - Some of tastiest and most authentic Neapolitan pizza in the neighborhood. Make sure you order some of the cheeses on the menu to start.
 - [Mama's on Washington Square](https://maps.app.goo.gl/ir1cjf7qfB7CSiBYA) - Popular breakfast spot with long waits. Get the Monte Cristo or the french toast.
-- Golden Boy - Popular late night spot for thick Sicilian-style square. Good pizza, but don't wait over an hour on line for it.
-- Molinari - Old-school Italian deli serving sandwiches, handmade ravioli, and their signature house-cured salami alongside specialty Italian imports.
-- Mario's Cigar Bar - North Beach cafe known for focaccia sandwiches and espresso
+- [Golden Boy](https://maps.app.goo.gl/L3fU9yukh4GnKirf9) - Popular late night spot for thick Sicilian-style square. Good pizza, but don't wait over an hour on line for it.
+- [Molinari](https://maps.app.goo.gl/VtSDCFs8pq2AqQSQ6) - Old-school Italian deli serving sandwiches, handmade ravioli, and their signature house-cured salami alongside specialty Italian imports.
+- [Mario's Cigar Bar](https://maps.app.goo.gl/3j6mYUQg6NJrTUKF6) - North Beach cafe known for focaccia sandwiches and espresso
 - Sotto Mare
 - Da Flora
 - Original Joe's
@@ -31,4 +31,4 @@ List of places to eat and hang
 - North Star
 - Lillie Coit's
 
-< [back to directory](README.md)
+← [back to directory](README.md)

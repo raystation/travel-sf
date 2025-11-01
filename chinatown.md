@@ -19,4 +19,4 @@ List of places to eat and hang
 - Li Po
 - Buddha Bar
 
-< [back to directory](README.md)
+← [back to directory](README.md)

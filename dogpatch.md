@@ -18,4 +18,4 @@ List of places to eat and hang
 - [ATWater Tavern](https://www.google.com/maps?q=Atwater%20Tavern) - HH 2-5, Oysters $1
 - [Spark Social](https://www.google.com/maps/place/SPARK+Social+SF/@37.7707835,-122.394011,17z/data=!3m1!4b1!4m6!3m5!1s0x808f7fcfddddc751:0xb5383aac2dbd7b2a!8m2!3d37.7707793!4d-122.3914307!16s%2Fg%2F11bztgrft7?entry=ttu&g_ep=EgoyMDI1MTAxNC4wIKXMDSoASAFQAw%3D%3D)
 
-< [back to directory](README.md)
+← [back to directory](README.md)
