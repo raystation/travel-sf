@@ -4,11 +4,11 @@ List of places to eat and hang
 - [Hang](#hang)
 
 ## Food
-- [Autumn’s Cafe and Catering](https://maps.app.goo.gl/GGS1uqwd1Y79LqN48) - Tasty and reasonably priced sandwiches and have loyalty cards.
-- [Senor Sisig](https://maps.app.goo.gl/M7x5YpP2M9Tt3BCMA) - Filipino fusion food truck serving tacos, burritos, and California bowls.
-- [Longbridge Pizza](https://www.google.com/maps?q=longbridge) - Crispy coal-fired pizza. 
-- [Soulva](https://maps.app.goo.gl/Bns7Uo7vfCYECrvQ6)
-- [Döuble Shöt](https://maps.app.goo.gl/gY6pgadPGeVX3DQj6) - coffee and sandwiches
+- [Autumn’s Cafe and Catering](https://maps.app.goo.gl/GGS1uqwd1Y79LqN48) - Delicious, well-priced sandwiches with a loyalty program. The pastrami is a standout that can last 2 meals.
+- [Senor Sisig](https://maps.app.goo.gl/M7x5YpP2M9Tt3BCMA) - Filipino fusion food truck serving tacos, burritos, and bowls.
+- [Longbridge Pizza](https://www.google.com/maps?q=longbridge) - Crispy thin East coast style coal-fired pizza. 
+- [Soulva](https://maps.app.goo.gl/Bns7Uo7vfCYECrvQ6) - Fast-casual Greek with spit-roasted meats and bowls. 
+- [Döuble Shöt](https://maps.app.goo.gl/gY6pgadPGeVX3DQj6) - coffee shop that has reasonably priced sandwiches.
 - [Spark Social](https://maps.app.goo.gl/kbSnTEVizihZMT1A8) - Container park with rotating food trucks and mini-golf. [see food trucks](https://sparksocialsf.com/#food-truck-schedule).
 - [Fikscue Thrive City](https://maps.app.goo.gl/Btgsv8nYc49wjTwt5) - Indonesian BBQ over by the Chase Center with smells that will stop you in your tracks. Only open on game days, Thursdays, and Fridays. A little pricy, but the brisket sandwich is good value. 
 
