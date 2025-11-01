@@ -10,7 +10,7 @@ List of places to eat and hang
 - [Soulva](https://maps.app.goo.gl/Bns7Uo7vfCYECrvQ6) - Fast-casual Greek with spit-roasted meats and bowls. 
 - [Döuble Shöt](https://maps.app.goo.gl/gY6pgadPGeVX3DQj6) - coffee shop that has reasonably priced sandwiches.
 - [Spark Social](https://maps.app.goo.gl/kbSnTEVizihZMT1A8) - Container park with rotating food trucks and mini-golf. [see food trucks](https://sparksocialsf.com/#food-truck-schedule).
-- [Fikscue Thrive City](https://maps.app.goo.gl/Btgsv8nYc49wjTwt5) - Indonesian BBQ over by the Chase Center with smells that will stop you in your tracks. Only open on game days, Thursdays, and Fridays. A little pricy, but the brisket sandwich is good value. 
+- [Fikscue Thrive City](https://maps.app.goo.gl/Btgsv8nYc49wjTwt5) - Indonesian BBQ with mouthwatering aromas. Game days + Thu/Fri only. Pricey. Get the brisket sandwich for best value.
 
 ## Hang
 - [The Ramp](https://www.google.com/maps/place/The+Ramp+Restaurant/@37.7640885,-122.3897718,17z/data=!3m1!4b1!4m6!3m5!1s0x808f7fc7075d7a5d:0xda64c5a14e437ab6!8m2!3d37.7640885!4d-122.3871969!16s%2Fm%2F01zp43_?entry=ttu&g_ep=EgoyMDI1MTAxNC4wIKXMDSoASAFQAw%3D%3D)
